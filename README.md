@@ -4,3 +4,5 @@ Fast and efficient for manipulating and analyzing data.
 Data from different file objects can be loaded.
 Data alignment and integrated handling of missing data.
 Reshaping and pivoting of date sets.
+
+#GroupBy
