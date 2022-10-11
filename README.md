@@ -6,7 +6,10 @@ Data alignment and integrated handling of missing data.
 Reshaping and pivoting of date sets.
 
 # GroupBy
-Group by is nothing but grouping multipal data in single package.we can create also helps to aggregate data efficiently.
+Group by is nothing but grouping multiple data in a single package. we can create also helps to aggregate data efficiently.
+pandas' objects can be split into any of their parts. The abstract definition of grouping is to provide a mapping of labels to group names.
+
+
 
 
 
