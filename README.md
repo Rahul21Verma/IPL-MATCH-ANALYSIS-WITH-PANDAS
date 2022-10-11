@@ -5,4 +5,8 @@ Data from different file objects can be loaded.
 Data alignment and integrated handling of missing data.
 Reshaping and pivoting of date sets.
 
-#GroupBy
+# GroupBy
+Group by is nothing but grouping multipal data in single package.we can create also helps to aggregate data efficiently.
+
+
+
